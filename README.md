@@ -1,4 +1,5 @@
 # CustomBot
+
 # Description
 This is an prototype of a discord bot ran by an exe file
 
@@ -14,3 +15,6 @@ https://github.com/Tyrrrz/DiscordChatExporter/wiki/Obtaining-Token-and-Channel-I
 7. You should now be prompted "Logged In As <BotName#0000>!" and the bot should appear online.
 8. To get a list of commands type "help" in the console.
 9. Done! You're now done with the installation process and can now use the bot for your own purpose.
+
+#What has this bot got to offer?
+This bot were made to easily manage a discord bot\na.

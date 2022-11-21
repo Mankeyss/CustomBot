@@ -1,7 +1,8 @@
 # CustomBot
+# Description
 This is an prototype of a discord bot ran by an exe file
 
-INSTALLATION
+# INSTALLATION
 To install the software you will have to do these steps:
 1. Go to https://github.com/NadeNoob/CustomBot
 2. Click the green "<> Code" button in the top right corner.

@@ -16,5 +16,5 @@ https://github.com/Tyrrrz/DiscordChatExporter/wiki/Obtaining-Token-and-Channel-I
 8. To get a list of commands type "help" in the console.
 9. Done! You're now done with the installation process and can now use the bot for your own purpose.
 
-#What has this bot got to offer?
-This bot were made to easily manage a discord bot\na.
+# What has this bot got to offer?
+This bot were made to easily manage a discord bot.

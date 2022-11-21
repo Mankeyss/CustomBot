@@ -5,5 +5,5 @@ INSTALLATION
 To install the software you will have to do these steps:
 1. Go to https://github.com/NadeNoob/CustomBot
 2. Click the green "<> Code" button.
-3. Click on Download ZIP.
+3. Click on whatever you prefer but I recommend "Download ZIP".
 4. Run main-win.exe, main-linux or main-macos depending on your system device.

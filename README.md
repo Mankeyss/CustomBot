@@ -17,4 +17,4 @@ https://github.com/Tyrrrz/DiscordChatExporter/wiki/Obtaining-Token-and-Channel-I
 9. Done! You're now done with the installation process and can now use the bot for your own purpose.
 
 # What has this bot got to offer?
-This bot were made to easily manage a discord bot.
+This software were made to easily manage a discord bot.

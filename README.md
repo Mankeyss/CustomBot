@@ -4,7 +4,7 @@
 This is an prototype of a discord bot ran by an exe file
 
 # INSTALLATION
-To install the software you will have to do these steps:
+To install the bot you will have to do these steps:
 1. Go to https://github.com/NadeNoob/CustomBot
 2. Click the green "<> Code" button in the top right corner.
 3. Click on whatever you prefer, but I recommend "Download ZIP".
@@ -17,4 +17,4 @@ https://github.com/Tyrrrz/DiscordChatExporter/wiki/Obtaining-Token-and-Channel-I
 9. Done! You're now done with the installation process and can now use the bot for your own purpose.
 
 # What has this bot got to offer?
-This software were made to easily manage a discord bot.
+This bot were made to easily manage a discord bot.

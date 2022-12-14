@@ -1,7 +1,7 @@
 # CustomBot
 
 # Description
-This is an prototype of a discord bot ran by an exe file
+This is a prototype of a discord bot ran by an exe file
 
 # INSTALLATION
 To install the bot you will have to do these steps:
